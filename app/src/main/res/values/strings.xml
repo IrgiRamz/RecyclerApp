@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_detail">Detail Makanan</string>
+    <string name="string_list">View List</string>
+    <string name="string_grid">View Grid</string>
+    <string name="string_card">View Card</string>
+    <string name="todo">TODO</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="nama_makanan">Nama makanan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="kelompok_5">Dibuat Oleh :</string>
+    <string name="irgi_rama_sulistio">- Irgi Rama Sulistio</string>
+    <string name="next">NEXT</string>
+
+</resources>
